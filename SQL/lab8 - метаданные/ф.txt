@@ -1,0 +1,4 @@
+почему sysdiagrams - таблица пользователя
+https://docs.microsoft.com/ru-ru/sql/relational-databases/system-compatibility-views/system-compatibility-views-transact-sql?view=sql-server-2017
+https://docs.microsoft.com/ru-ru/sql/relational-databases/system-information-schema-views/system-information-schema-views-transact-sql?view=sql-server-2017
+https://en.wikipedia.org/wiki/Information_schema

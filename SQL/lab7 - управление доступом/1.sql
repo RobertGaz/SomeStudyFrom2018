@@ -1,0 +1,1 @@
+sp_addlogin @loginame = 'test/test', @passwd = 'mdaa', @defdb = 'T V'
